@@ -38,6 +38,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
       - [Import / Export](#import--export)
       - [Data Manipulation](#data-manipulation)
       - [Geographical / Spatial](#geographical--spatial)
+      - [Image / Computer Vision](#image--computer-vision)
       - [Validation](#validation)
       - [Security / Privacy](#security--privacy)
       - [String parsing](#string-parsing)
@@ -133,6 +134,9 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars-st](https://github.com/Oreilles/polars-st) - Polars plugin that provides geographical/spatial operations on Polars DataFrames, Series, and Expressions by [@Oreilles](https://github.com/Oreilles).
 - [polars-coord-transforms](https://github.com/georgypv/polars-coord-transforms) - Polars plugin for coordinates transformation and extractions features by [@georgypv](https://github.com/georgypv).
 - [PyCanopy](https://github.com/pranav-walimbe/PyCanopy) - high-performance spatial query layer for Polars, competitive with industry SQL tools in performance
+
+#### Image / Computer Vision
+- [polars-cv](https://github.com/heshamdar/polars-cv) - Polars plugin for image and array operations (decode, resize, filter and more) as lazy expressions, built in Rust by [@heshamdar](https://github.com/heshamdar).
 
 #### Validation
 - [polars-validator](https://github.com/baggiponte/polars-validator) - Polars plugin that makes Polars DataFrames generics by [@baggiponte](https://github.com/baggiponte).
